@@ -10,3 +10,5 @@
 10) https://github.com/elsewhencode/project-guidelines
 11) https://habr.com/ru/company/ruvds/blog/340508/
 12) https://github.com/goldbergyoni/javascript-testing-best-practices
+13) https://www.patterns.dev/
+14) https://refactoring.guru/
