@@ -1,0 +1,27 @@
+JavaScript
+1) https://github.com/airbnb/javascript
+2) https://github.com/lydiahallie/javascript-questions
+3) https://github.com/trekhleb/javascript-algorithms
+4) https://github.com/leonardomso/33-js-concepts
+5) https://github.com/ryanmcdermott/clean-code-javascript
+6) https://github.com/getify/You-Dont-Know-JS
+7) https://github.com/sorrycc/awesome-javascript
+8) https://github.com/30-seconds/30-seconds-of-code
+9) https://habr.com/ru/company/ruvds/blog/340508/
+
+React
+1) https://github.com/Bogdan-Lyashenko/Under-the-hood-ReactJS
+2) https://github.com/vasanthk/react-bits
+3) https://github.com/enaqx/awesome-react
+4) https://www.react.express/
+
+Node.js
+1) https://github.com/goldbergyoni/nodebestpractices
+
+Testing
+https://github.com/goldbergyoni/javascript-testing-best-practices
+
+Patterns
+1) https://www.patterns.dev/
+2) https://refactoring.guru/
+3) https://github.com/elsewhencode/project-guidelines
