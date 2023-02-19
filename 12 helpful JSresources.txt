@@ -8,6 +8,7 @@ JavaScript
 7) https://github.com/sorrycc/awesome-javascript
 8) https://github.com/30-seconds/30-seconds-of-code
 9) https://habr.com/ru/company/ruvds/blog/340508/
+10) https://github.com/getify/Functional-Light-JS
 
 React
 1) https://github.com/Bogdan-Lyashenko/Under-the-hood-ReactJS
