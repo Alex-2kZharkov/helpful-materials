@@ -9,6 +9,7 @@ JavaScript
 8) https://github.com/30-seconds/30-seconds-of-code
 9) https://habr.com/ru/company/ruvds/blog/340508/
 10) https://github.com/getify/Functional-Light-JS
+11) https://github.com/trekhleb/javascript-algorithms
 
 React
 1) https://github.com/Bogdan-Lyashenko/Under-the-hood-ReactJS
