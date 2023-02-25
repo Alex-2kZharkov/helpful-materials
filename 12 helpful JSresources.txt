@@ -28,3 +28,4 @@ Patterns
 1) https://www.patterns.dev/
 2) https://refactoring.guru/
 3) https://github.com/elsewhencode/project-guidelines
+4) https://alexkondov.com/tao-of-react/
