@@ -17,6 +17,9 @@ React
 3) https://github.com/enaqx/awesome-react
 4) https://www.react.express/
 5) https://github.com/sudheerj/reactjs-interview-questions
+6) https://github.com/acdlite/react-fiber-architecture
+7) https://dzone.com/articles/understanding-of-react-fiber-architecture
+8) https://cult.honeypot.io/
 
 Node.js
 1) https://github.com/goldbergyoni/nodebestpractices
