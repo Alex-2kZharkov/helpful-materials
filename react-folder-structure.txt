@@ -2,3 +2,4 @@ https://profy.dev/article/react-folder-structure#exit-group-by-features
 https://engineering.udacity.com/react-folder-structure-for-enterprise-level-applications-f8384eff162b
 https://feature-sliced.design/ru/
 https://github.com/alan2207/bulletproof-react
+https://medium.com/@kumarvinoth/finally-a-better-react-js-folder-structure-821a2210835
