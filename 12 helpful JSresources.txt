@@ -10,6 +10,8 @@ JavaScript
 9) https://habr.com/ru/company/ruvds/blog/340508/
 10) https://github.com/getify/Functional-Light-JS
 11) https://github.com/trekhleb/javascript-algorithms
+12) https://github.com/mbeaudru/modern-js-cheatsheet
+13) https://github.com/DrkSephy/es6-cheatsheet
 
 React
 1) https://github.com/Bogdan-Lyashenko/Under-the-hood-ReactJS
