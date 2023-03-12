@@ -29,6 +29,7 @@ Node.js
 3) https://github.com/sindresorhus/awesome-nodejs
 4) https://nodejs.dev/en/learn/
 5) https://nodeschool.io/
+6) https://www.digitalocean.com/community/tutorials?hits_per_page=12&q=%5BNode.js%5D
 
 Testing
 https://github.com/goldbergyoni/javascript-testing-best-practices
