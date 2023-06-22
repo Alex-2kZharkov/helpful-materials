@@ -260,6 +260,9 @@ You can find more information about TypeScript on [Total TypeScript](https://www
 - **Void Type** (TS 1.0)  
   `function log(message: string): void { console.log(message); }`
 
+- **Unknown Type** (TS 1.0)  
+  `let name: unknown`
+
 - **Never Type** (TS 2.0)  
   `function throwError(message: string): never { throw new Error(message); }`
 
