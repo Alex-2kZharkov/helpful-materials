@@ -11,3 +11,6 @@
 11. Accelerated
 12. Launched
 13. Pioneered
+14. Verb+ed  something, resulting/contributing/increasing/decreasing something 
+
+F.e. “Improved Azure DevOps CI/CD pipeline, decreasing pipeline runtime by 15 minutes”
