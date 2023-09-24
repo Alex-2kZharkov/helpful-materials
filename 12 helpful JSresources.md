@@ -1,4 +1,4 @@
-JavaScript
+## JavaScript
 1) https://github.com/airbnb/javascript
 2) https://github.com/lydiahallie/javascript-questions
 3) https://github.com/trekhleb/javascript-algorithms
@@ -13,7 +13,7 @@ JavaScript
 12) https://github.com/mbeaudru/modern-js-cheatsheet
 13) https://github.com/DrkSephy/es6-cheatsheet
 
-React
+## React
 1) https://github.com/Bogdan-Lyashenko/Under-the-hood-ReactJS
 2) https://github.com/vasanthk/react-bits
 3) https://github.com/enaqx/awesome-react
@@ -23,7 +23,7 @@ React
 7) https://dzone.com/articles/understanding-of-react-fiber-architecture
 8) https://cult.honeypot.io/
 
-Node.js
+## Node.js
 1) https://github.com/goldbergyoni/nodebestpractices
 2) https://github.com/metarhia/BestPractice
 3) https://github.com/sindresorhus/awesome-nodejs
@@ -32,10 +32,10 @@ Node.js
 6) https://www.digitalocean.com/community/tutorials?hits_per_page=12&q=%5BNode.js%5D
 7) https://wanago.io/
 
-Testing
+## Testing
 https://github.com/goldbergyoni/javascript-testing-best-practices
 
-Patterns
+## Patterns
 1) https://www.patterns.dev/
 2) https://refactoring.guru/
 3) https://github.com/elsewhencode/project-guidelines
