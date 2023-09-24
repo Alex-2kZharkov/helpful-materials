@@ -45,3 +45,4 @@
 - [Video 7](https://www.youtube.com/watch?v=wjxAJ0typmk)
 - [Video 8](https://www.youtube.com/watch?v=pTD6hNwMCYk)
 - [Video 9](https://www.youtube.com/watch?v=5GOJ-H6qmYY)
+- [Video 10: STAR](https://www.youtube.com/watch?v=8QfSnuL8Ny8)
