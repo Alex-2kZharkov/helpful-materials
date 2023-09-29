@@ -29,3 +29,4 @@ F.e. “Improved Azure DevOps CI/CD pipeline, decreasing pipeline runtime by 15 
 - https://www.tealhq.com/post/four-ways-to-use-chatgpt-to-optimize-your-linkedin-profile - ChatGPT
 - https://www.tealhq.com/post/linkedin-headlines-for-job-seekers - crafting LinkedIn Headline
 - https://evaboot.com/blog/linkedin-boolean-search - search for recruiters that are hiring people with your tech stack
+- https://www.herohunt.ai/blog/x-ray-search-in-2022 - X ray search for people who hire with your tech stack
