@@ -71,6 +71,9 @@
 12. What is your branching strategy?
 
 
+# Articles
+- https://www.freecodecamp.org/news/how-to-make-a-successful-job-interview/
+
 # **YouTube Resources**
 
 ## **Motivational Channels**
