@@ -10,3 +10,4 @@
 # Career development
 
 - https://hbr.org/2023/08/how-to-become-more-visible-at-work
+- https://hbr.org/2018/01/6-ways-to-take-control-of-your-career-development-if-your-company-doesnt-care-about-it
