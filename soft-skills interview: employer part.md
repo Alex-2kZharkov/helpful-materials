@@ -1,2 +1,0 @@
-- [Tips from developers](https://medium.com/javascript-scene/master-the-javascript-interview-soft-skills-a8a5fb02c466)
-
